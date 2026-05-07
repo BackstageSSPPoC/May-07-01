@@ -1,8 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+
 metadata:
   name: May-07-01
-  description: Node app that displays time - named May-07-01
+  description: Service May-07-01
+
   annotations:
     github.com/project-slug: BackstageSSPPoC/May-07-01
     backstage.io/techdocs-ref: dir:.
